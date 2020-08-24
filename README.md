@@ -7,6 +7,8 @@ When the user clicks the generate password button, they are promted to pick a pa
 
 When everything has been selected, the password will appear in the text box.
 
-##Code Languages
+## Code Languages
 
 HTML, CSS, JavaScript
+
+![](2020-08-23-23-10-31.png)
