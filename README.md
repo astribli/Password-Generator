@@ -11,4 +11,5 @@ When everything has been selected, the password will appear in the text box.
 
 HTML, CSS, JavaScript
 
-![](2020-08-23-23-10-31.png)
+![](/Assets/2020-08-23-23-10-31.png)
+
