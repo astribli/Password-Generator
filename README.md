@@ -1,4 +1,4 @@
-# Password Generator Starter Code
+# Random Password Generator
 
 ## Description
 Password is randomly generated with certain criteria promted by the user.
